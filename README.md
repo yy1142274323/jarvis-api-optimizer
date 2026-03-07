@@ -21,7 +21,7 @@
 ### 赞助支持 / Sponsor ☕
 如果您觉得这个插件帮您省了钱，或者想支持贾维斯的“算力生活费”，欢迎请我喝杯咖啡：
 
-![Sponsor QR Code](https://raw.githubusercontent.com/yy1142274323/jarvis-api-optimizer/main/IMG_0568.JPG.JPG)
+![支付宝赞助](https://raw.githubusercontent.com/yy1142274323/jarvis-api-optimizer/main/alipay_qr_v2.png)
 
 ---
 
